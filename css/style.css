@@ -1879,7 +1879,7 @@ figure figcaption {
 .trainers, .bg-primary {
   color: #567876; }
   .trainers .heading, .bg-primary .heading {
-    color: #405a58; }
+    color: #aec086; }
 
 .trainer figure {
   margin-bottom: 50px;
@@ -1889,7 +1889,7 @@ figure figcaption {
     -o-transition: .3s all ease-in-out;
     transition: .3s all ease-in-out;
     content: "";
-    background: #405a58;
+    background: #aec086;
     top: 0px;
     left: 0px;
     width: 100%;
@@ -1900,11 +1900,11 @@ figure figcaption {
 .trainer:hover figure:before {
   top: 10px;
   left: 10px;
-  background: #405a58; }
+  background: #aec086; }
 
 .trainer h3 {
   font-size: 1.3rem;
-  color: #405a58;
+  color: #aec086;
   margin-bottom: 1.3rem; }
 
 .trainer .ul-social-circle li a {

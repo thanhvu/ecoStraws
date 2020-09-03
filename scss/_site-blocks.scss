@@ -1620,7 +1620,7 @@ figure {
 .trainers, .bg-primary {
 	color: #567876;
 	.heading {
-		color: #405a58;
+		color: #aec086;
 	}
 }
 
@@ -1631,7 +1631,7 @@ figure {
 		&:before {
 			transition: .3s all ease-in-out;
 			content: "";
-			background: #405a58;
+			background: #aec086;
 			top: 0px;
 			left: 0px;
 			width: 100%;
@@ -1645,13 +1645,13 @@ figure {
 			&:before {
 				top: 10px;
 				left: 10px;
-				background: #405a58;
+				background: #aec086;
 			}
 		}
 	}
 	h3 {
 		font-size: 1.3rem;
-		color: #405a58;
+		color: #aec086;
 		margin-bottom: 1.3rem;
 	}
 	.ul-social-circle {
